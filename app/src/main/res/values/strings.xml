@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HCFCalculator</string>
+    <string name="smaller_number_hint">Enter the smaller number here:</string>
+    <string name="greater_number_hint">Enter the greater number here:</string>
+    <string name="button_submit_text">Submit</string>
+    <string name="textview_answer_default_text">Answer : 0</string>
+</resources>
